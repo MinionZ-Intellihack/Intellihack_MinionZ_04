@@ -12,3 +12,6 @@ df = pd.read_csv("task_04_preprocessed.csv")
 ```
 
 Then, run the necessary code snippet related to the specific model training part after installing the required libraries in your environment.
+
+Submission file is added in the repository which contains future stock price predictions for 5 days 
+
